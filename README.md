@@ -19,6 +19,7 @@
 ## 🛠 Experience
 - [ZeroPage CAU](https://zeropage.org/) 32th Generation Member [2022.7. ~ ]
 - [ZeroPage CAU](https://zeropage.org/) 33th President [2023.1. ~ 2024.1.]
+- 숙명여대SWAI교육캠프 보조강사 [2023.1. ~ 2023.2.]
 - [CUAI](https://cuai-cau.github.io/) 6th Generation Member [2023.3. ~ 2024.2.]
 - [삼성전자 DX부문 하계 SW 역량강화 특강](https://samsungalgorithm.com/)  [2023.7.17. ~ 2023.8.25]
 - [DILab CAU](https://sites.google.com/view/dilabcau/) Undergraduate researcher [2024.3. ~ ]
