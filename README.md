@@ -6,7 +6,7 @@
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=polarpolar914&show_icons=true&theme=tokyonight)](https://github.com/polarpolar914)
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kdw3914)](https://solved.ac/profile/kdw3914)
-
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=kdw3914&theme=warm)
 </div>
 <br>
 
