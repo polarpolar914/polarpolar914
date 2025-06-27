@@ -1,12 +1,16 @@
 ![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fpolarpolar914&label=Hits&icon=github&color=%23198754)
 
 <div align="center">
-
+  
 # Hi there 👋, I'm Dongwoo Kim
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=polarpolar914&show_icons=true&theme=tokyonight)](https://github.com/polarpolar914)
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kdw3914)](https://solved.ac/profile/kdw3914)
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=kdw3914&theme=warm)
+
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/polarpolar914"/>
+</a>
 </div>
 <br>
 
